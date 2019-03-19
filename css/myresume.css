@@ -9,7 +9,7 @@ h5,
 h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 }
-subheading {
+.subheading {
 	font-family: 'Noto Sans TC', sans-serif;
         font-size: 1.2rem;
 	text-transform: none;
@@ -20,7 +20,7 @@ h1 .text-primary {
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
 }
-bg-primary {
+.bg-primary {
 	background-color: #7d2c00!important;
 	background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
 }
