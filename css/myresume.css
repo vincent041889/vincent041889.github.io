@@ -31,3 +31,7 @@ h1 .text-primary {
 td{
            padding:1.25rem;
 }
+
+table{
+          text-align:center;
+}
