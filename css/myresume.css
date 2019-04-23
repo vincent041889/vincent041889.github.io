@@ -27,3 +27,7 @@ h1 .text-primary {
 .text-primary{
 	color: #404040;
 }
+
+td{
+           padding:1.25rem;
+}
